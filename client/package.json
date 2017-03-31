@@ -1,0 +1,11 @@
+{
+	"name": "markdownintegration",
+	"title": "markdownintegration",
+	"version": "1.0.0",
+	"description": "Markdown integration for SAP Web IDE",
+	"homepage": "",
+	"icon": "",
+	"bundledPlugins": {
+		"markdownviewer": "file:markdownviewer"
+	}
+}

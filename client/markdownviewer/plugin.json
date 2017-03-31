@@ -1,0 +1,27 @@
+{
+	"name": "markdownviewer",
+	"description": "View markdown files rendered",
+	"i18n": "markdownviewer/i18n/i18n",
+	"requires": {
+		"services": [
+
+		]
+	},
+	"provides": {
+		"services": {
+
+		},
+
+		"interfaces": {
+
+		}
+	},
+	"configures": {
+		"services": {
+
+		}
+	},
+	"subscribes": {
+
+	}
+}
